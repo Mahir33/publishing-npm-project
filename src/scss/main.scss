@@ -1,0 +1,13 @@
+// This is where you can import other stylesheets or write your scss code
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// STYLES and imports
+
+@import "./_variables.scss";
+
+h1 {
+    color: $primary;
+}
+
+
+
